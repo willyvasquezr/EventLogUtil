@@ -23,3 +23,5 @@ Open a cmd window as administrator
 To install: EventLogUtil /i
 
 To uninstall: EventLogUtil /u
+
+###Thanks to https://github.com/sarayG 
