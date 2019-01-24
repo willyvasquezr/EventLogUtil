@@ -1,7 +1,7 @@
 # EventLogUtil
 Create a log and multiple sources in the event viewer
 
-# To configure 
+## To configure 
 Open the EventLogUtil.exe.config and change this 2 properties:
 
 ```XML
@@ -17,7 +17,7 @@ Open the EventLogUtil.exe.config and change this 2 properties:
   </applicationSettings>
 ```
 
-# To run
+## To run
 Open a cmd window as administrator
 
 To install: EventLogUtil /i
