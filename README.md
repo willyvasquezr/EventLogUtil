@@ -24,5 +24,5 @@ To install: EventLogUtil /i
 
 To uninstall: EventLogUtil /u
 
-###Thanks to 
+### Thanks to 
 https://github.com/sarayG 
